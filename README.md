@@ -37,7 +37,7 @@ end
 * In the IDE select ``Preview`` -> ``Port 3000(Default)``
 * A new browser tab/window should open with 'Hello World!'
 
-# Next Steps
+# Next Step
 * [Add RSpec](add-rspec.md)
 
 # Resources
