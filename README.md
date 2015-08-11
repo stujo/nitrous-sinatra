@@ -38,7 +38,7 @@ end
 * A new browser tab/window should open with 'Hello World!'
 
 # Next Steps
-* [Add RSpec](add-rspec.rb)
+* [Add RSpec](add-rspec.md)
 
 # Resources
 * [Nitrous Community Tutorials](https://community.nitrous.io/)
