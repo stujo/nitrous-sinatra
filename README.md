@@ -17,14 +17,8 @@
 source "https://rubygems.org"
 
 gem "sinatra"
-
-group :development do
-  gem "rspec", "~>3.3"
-end
 ```
 * ``bundle``
-* ``rspec --init``
-* ``bundle exec rspec --init``
 * add ``./app.rb`` - this will be our app
 ```
 require 'sinatra'
@@ -43,7 +37,8 @@ end
 * In the IDE select ``Preview`` -> ``Port 3000(Default)``
 * A new browser tab/window should open with 'Hello World!'
 
-
+# Next Steps
+* [Add RSpec](add-rspec.rb)
 
 # Resources
 * [Nitrous Community Tutorials](https://community.nitrous.io/)
