@@ -2,4 +2,5 @@
 
 * [Start Here](./README.md)
 
+# Configure for sqlite3
 
