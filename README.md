@@ -39,6 +39,7 @@ end
 
 # Next Step
 * [Add RSpec](add-rspec.md)
+* [Add GitHub Support](add-github.md)
 
 # Resources
 * [Nitrous Community Tutorials](https://community.nitrous.io/)
